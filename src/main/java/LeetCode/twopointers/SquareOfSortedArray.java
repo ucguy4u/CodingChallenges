@@ -1,7 +1,7 @@
 /**
  * 
  */
-package problems.leetcodechallenges.twopointers;
+package LeetCode.twopointers;
 
 import java.util.Arrays;
 

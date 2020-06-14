@@ -1,7 +1,7 @@
 /**
  * 
  */
-package thirty.day.covid.LeetCodeChallenges;
+package LeetCode.thirty.day.covid.LeetCodeChallenges;
 
 /**
  * @author ucguy4u Given a string containing only three types of characters:

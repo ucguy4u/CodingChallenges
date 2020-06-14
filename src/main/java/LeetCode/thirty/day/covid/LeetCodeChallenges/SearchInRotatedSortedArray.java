@@ -1,4 +1,4 @@
-package thirty.day.covid.LeetCodeChallenges;
+package LeetCode.thirty.day.covid.LeetCodeChallenges;
 
 class SearchInRotatedSortedArray {
 

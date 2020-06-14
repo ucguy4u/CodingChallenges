@@ -1,7 +1,7 @@
 /**
  * 
  */
-package thirty.day.covid.LeetCodeChallenges;
+package LeetCode.thirty.day.covid.LeetCodeChallenges;
 
 import java.util.Arrays;
 
