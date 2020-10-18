@@ -25,7 +25,7 @@ public class NQueens {
         if (c >= n)
             return true;
         for (int i = 0; i < n; i++) {
-
+            
         }
         return false;
 
